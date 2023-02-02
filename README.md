@@ -1,7 +1,7 @@
 # The Porn Directory
 ## By Jake
 
-| Category  | Site | Site |
+| Category  | Site | + |
 | ------------- | ------------- | ------------- |
 | Free porn  | [Pornhub](https://www.pornhub.com)  | [redtube](https://redtube.com)  |
 | Feet Porn  | [Love Her Feet](https://www.loveherfeet.com)  |  |
