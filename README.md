@@ -8,3 +8,4 @@
 | Black Porn | [She Loves Black](https://www.shelovesblack.com)  |
 | Big Boobs | [Love Her Boobs](https://www.loveherboobs.com)  |
 | HD Porn | [HQPorner](https://www.hqporner.com)  |
+| lol | [funny](https://jake.github.io)
