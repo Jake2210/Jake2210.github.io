@@ -16,4 +16,4 @@
 
 [whores throat fucked](https://github.com/Jake2210/Jake2210.github.io/assets/118492756/b361517e-37d9-42aa-8cc8-65e7baa228c6)
 
-[koby]![1091x1565_8de504b4d37221ae2e140c2cfa501500](https://github.com/Jake2210/Jake2210.github.io/assets/118492756/2da68c52-db3c-47af-8cd6-27f3c357c3c1)
+[koby](https://github.com/Jake2210/Jake2210.github.io/assets/118492756/2da68c52-db3c-47af-8cd6-27f3c357c3c1)
