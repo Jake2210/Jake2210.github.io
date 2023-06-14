@@ -1,4 +1,4 @@
-# The Porn Directory
+# :sweat_drops: The Porn Directory :sweat_drops:
 ## By Jake
 
 | Category  | Site | + |
