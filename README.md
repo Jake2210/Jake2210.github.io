@@ -1,59 +1,66 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Page</title>
+  <title>Modern Web Page</title>
   <style>
-    /* Add your custom CSS styles here */
-
     body {
-      background-color: #222;
-      color: #fff;
+      background-color: #202020;
+      color: #ffffff;
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
     }
-
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
+    
+    .header {
+      background-color: #303030;
       padding: 20px;
       text-align: center;
     }
-
-    h1 {
-      font-size: 3rem;
-      text-shadow: 2px 2px 4px #000;
+    
+    .header h1 {
+      font-size: 36px;
+      color: #ffffff;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     }
-
+    
+    .container {
+      text-align: center;
+      margin-top: 100px;
+    }
+    
     .button {
       display: inline-block;
       padding: 10px 20px;
-      background-color: #555;
-      color: #fff;
-      text-decoration: none;
+      background-color: #606060;
+      color: #ffffff;
+      font-size: 18px;
+      border: none;
       border-radius: 4px;
-      margin: 10px;
+      cursor: pointer;
       transition: background-color 0.3s ease;
+      text-decoration: none;
+      margin: 10px;
     }
-
+    
     .button:hover {
-      background-color: #777;
+      background-color: #808080;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Welcome to My GitHub Page</h1>
-    <button class="button" onclick="openURL('https://www.example.com')">Button 1</button>
-    <button class="button" onclick="openURL('https://www.example.com')">Button 2</button>
+  <div class="header">
+    <h1>Modern Web Page</h1>
   </div>
-
+  
+  <div class="container">
+    <a class="button" href="https://www.example.com">Button 1</a>
+    <a class="button" href="https://www.example.com">Button 2</a>
+    <a class="button" href="https://www.example.com">Button 3</a>
+  </div>
+  
   <script>
-    function openURL(url) {
-      window.open(url);
-    }
+    // JavaScript code can be added here for additional functionality if needed
   </script>
 </body>
 </html>
