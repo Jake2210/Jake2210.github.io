@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  .gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-gap: 10px;
-}
-
-.gallery img {
-  width: 100%;
-  height: auto;
-}
   <title>My GitHub Page</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
@@ -30,10 +20,10 @@
   <main>
     <h2>Home</h2>
     <div class="gallery">
-      <img src="image1.jpg" alt="Image 1">
-      <img src="image2.jpg" alt="Image 2">
-      <img src="image3.jpg" alt="Image 3">
-      <img src="image4.jpg" alt="Image 4">
+      <img src="dsc_0115.jpg" alt="Image 1">
+      <img src="dsc_0116.jpg" alt="Image 2">
+      <img src="dsc_0117.jpg" alt="Image 3">
+      <img src="dsc_0118.jpg" alt="Image 4">
     </div>
   </main>
 
