@@ -20,7 +20,7 @@
   <main>
     <h2>Home</h2>
     <div class="gallery">
-      <img src="![dsc_0116](https://github.com/Jake2210/Jake2210.github.io/assets/118492756/e044e987-b40a-48b8-94c8-076e11788546)" alt="Image 1">
+      <img src="https://github.com/Jake2210/Jake2210.github.io/assets/118492756/e044e987-b40a-48b8-94c8-076e11788546" alt="Image 1">
       <img src="dsc_0116.jpg" alt="Image 2">
       <img src="dsc_0117.jpg" alt="Image 3">
       <img src="dsc_0118.jpg" alt="Image 4">
