@@ -1,66 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Modern Web Page</title>
-  <style>
-    body {
-      background-color: #202020;
-      color: #ffffff;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    
-    .header {
-      background-color: #303030;
-      padding: 20px;
-      text-align: center;
-    }
-    
-    .header h1 {
-      font-size: 36px;
-      color: #ffffff;
-      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    }
-    
-    .container {
-      text-align: center;
-      margin-top: 100px;
-    }
-    
-    .button {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #606060;
-      color: #ffffff;
-      font-size: 18px;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
-      transition: background-color 0.3s ease;
-      text-decoration: none;
-      margin: 10px;
-    }
-    
-    .button:hover {
-      background-color: #808080;
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="header">
-    <h1>Modern Web Page</h1>
-  </div>
+  <header>
+    <div class="logo">
+      <img src="youtube-logo.png" alt="YouTube Logo">
+      <h1>YouTube</h1>
+    </div>
+    <div class="search-bar">
+      <input type="text" placeholder="Search...">
+      <button type="button">Search</button>
+    </div>
+    <div class="user-actions">
+      <button type="button">Login</button>
+      <button type="button">Sign Up</button>
+    </div>
+  </header>
   
-  <div class="container">
-    <a class="button" href="https://www.example.com">Button 1</a>
-    <a class="button" href="https://www.example.com">Button 2</a>
-    <a class="button" href="https://www.example.com">Button 3</a>
-  </div>
+  <main>
+    <section class="video-list">
+      <!-- Video thumbnails -->
+      <div class="video-thumbnail">
+        <a href="video.html">
+          <img src="thumbnail1.jpg" alt="Video Thumbnail">
+          <h2>Video Title</h2>
+          <p>Channel Name</p>
+          <p>Views • Date</p>
+        </a>
+      </div>
+      
+      <!-- Add more video thumbnails here -->
+      
+    </section>
+  </main>
   
-  <script>
-    // JavaScript code can be added here for additional functionality if needed
-  </script>
+  <footer>
+    <p>&copy; 2023 YouTube</p>
+  </footer>
+  
+  <script src="script.js"></script>
 </body>
 </html>
