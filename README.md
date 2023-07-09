@@ -1,13 +1,29 @@
-# The Porn Directory
-## By Jake
-### Foot Sex
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My GitHub Page</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My GitHub Page!</h1>
+  </header>
 
- | Category  | Site | + |
- | ------------- | ------------- | ------------- |
- | Free porn  | [Pornhub](https://www.pornhub.com)  | [redtube](https://redtube.com)  |
- | Feet Porn  | [Love Her Feet](https://www.loveherfeet.com)  |  |
- | Black Porn | [She Loves Black](https://www.shelovesblack.com)  |  |
- | Big Boobs | [Love Her Boobs](https://www.loveherboobs.com)  |  |
- | HD Porn | [HQPorner](https://www.hqporner.com)  |  |
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
 
- [caitlins ass fucked](https://github.com/Jake2210/Jake2210.github.io/assets/118492756/78ce5734-cb03-4226-9323-43fefeaf60cd)
+  <main>
+    <h2>Home</h2>
+    <p>Welcome to my GitHub Pages website.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 My GitHub Page. All rights reserved.</p>
+  </footer>
+</body>
+</html>
