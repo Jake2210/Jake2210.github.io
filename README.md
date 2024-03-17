@@ -1,2 +1,2 @@
 # Jake2210.github.io
-ErejrgZXIAI3mAQ.jpeg
+https://www.ErejrgZXIAI3mAQ.jpeg
